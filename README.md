@@ -10,7 +10,7 @@ A project was created with:
 
 ## Application Screenshots 
 
-- Login screen, where you can login or create new account.
+- Login screen. Here client can login or create a new account.
   
 ![alt text](examples/1.jpg)
 
