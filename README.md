@@ -1,7 +1,8 @@
 # Internet Shop
 
-The theme of the project was to create an application for an online store that allows
-the customer to buy the selected product from the selected category. 
+The topic of the project was to create an application for an online store that allows
+customers to buy selected products from selected category. There is also an admin panel
+that allows user to manage orders, products, suppliers, shippers and warehouses. 
 
 A project was created with:
 - JavaFX
@@ -22,7 +23,7 @@ A project was created with:
 
 ![alt text](examples/3.jpg)
 
-- Admin screen with orders. Here admin can send the order with chosen date and shipper.
+- Admin screen with the orders. Here admin can send an order with chosen date and shipper.
 
 ![alt text](examples/4.jpg)
 
