@@ -1,8 +1,8 @@
 # Internet Shop
 
 The topic of the project was to create an application for an online store that allows
-customers to buy selected products from selected category. There is also an admin panel
-that allows user to manage orders, products, suppliers, shippers and warehouses. 
+customers to buy selected products from selected categories and admins to manage a shop. Admin panel
+allows to manage orders, products, suppliers, shippers and warehouses. 
 
 A project was created with:
 - JavaFX
