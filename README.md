@@ -1,5 +1,6 @@
 # Internet Shop
 
+
 The topic of the project was to create an application for an online store that allows
 customers to buy selected products from selected categories and admins to manage a shop. Admin panel
 allows to manage orders, products, suppliers, shippers and warehouses. 
